@@ -36,3 +36,15 @@ function myFunction(a, b) {
     let result = myFunction(4, 2);
 alert( result );
 ```
+
+## Experience:
+RS Schools Course В«JavaScript/Front-end. Stage 0В» (in progress)
+
+## Education:
+* Mogilev State A. Kuleshov University
+* Belarusian-Russian University
+
+## Languages:
+* Russian - native speaker
+* English - B2
+* Spanish - A1
